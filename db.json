@@ -1,35 +1,35 @@
 {
   "facturas": [
     {
-      "factura": 1,
+      "id": 1,
       "cedula": "123",
       "valor": 1000,
       "celular": 3111234567,
       "email": "juan@marulanda.com"
     },
     {
-      "factura": 2,
+      "id": 2,
       "cedula": "456",
       "valor": 2000,
       "celular": 3121234567,
       "email": "alexander@ceballos.com"
     },
     {
-      "factura": 3,
+      "id": 3,
       "cedula": "789",
       "valor": 3000,
       "celular": 3131234567,
       "email": "felipe@mesa.com"
     },
     {
-      "factura": 4,
+      "id": 4,
       "cedula": "1011",
       "valor": 4000,
       "celular": 3141234567,
       "email": "alexis@fereria.com"
     },
     {
-      "factura": 5,
+      "id": 5,
       "cedula": "1012",
       "valor": 5000,
       "celular": 3151234567,
